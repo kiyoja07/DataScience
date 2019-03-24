@@ -1,7 +1,8 @@
 # Data Science
 
+### 0. Basic Cheat Sheet
+
 ### 1. Network Analysis
-NetworkAnalysis.ipynb
 
 ### 2. Recommendation
-Recommendation.ipynb
+
