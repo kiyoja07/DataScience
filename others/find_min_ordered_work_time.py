@@ -41,7 +41,6 @@ def make_work_matrix_from_works(works):
 
     return work_matrix
 
-# print(make_work_matrix_from_works(works))
 work_matrix = make_work_matrix_from_works(works)
 
 def find_max_work_time(work_matrix):

@@ -19,6 +19,8 @@
 
 def add_min_to_second(works):
 
+    """ 가장 작은 2개의 work를 한 개로 합치기"""
+
     works = sorted(works)
 
     if len(works) > 1:
