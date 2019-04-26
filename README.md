@@ -5,5 +5,7 @@
 ### 1. Network Analysis
 
 ### 2. Recommendation
-Recommendation algorithm with user-based filtering
-
+Recommendation algorithm with
+- Recommending What’s Popular
+- user-based filtering
+- Item-Based Collaborative Filtering
